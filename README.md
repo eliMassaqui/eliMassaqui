@@ -18,7 +18,8 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisioMassaqui&layout=compact&langs_count=10&exclude_repo=repo1,repo2)](https://github.com/elisioMassaqui/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliMassaqui&layout=compact&langs_count=10&exclude_repo=repo1,repo2)](https://github.com/eliMassaqui/github-readme-stats)
+
 
 
 
