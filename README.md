@@ -1,5 +1,5 @@
-[![GitHub stats]([![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliMassaqui&show_icons=true&hide=&count_private=true&title_color=6f42c1&text_color=6f42c1&icon_color=6f42c1&bg_color=ffff00&hide_border=true&show_icons=true)](https://github.com/eliMassaqui)
-)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eliMassaqui&show_icons=true&hide=&count_private=true&title_color=6f42c1&text_color=6f42c1&icon_color=6f42c1&bg_color=ffff00&hide_border=true&show_icons=true)](https://github.com/eliMassaqui)
+
 
 ### Tools & Technologies
 
