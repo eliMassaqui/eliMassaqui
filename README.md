@@ -76,8 +76,6 @@ if __name__ == "__main__":
 
 ```
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elisioMassaqui&theme=dark)
-
 ![T-Shirt Atrás](https://github.com/elisioMassaqui/elisioMassaqui/raw/main/t%20shirt%20atr%C3%A1s.png)
 
 <!---
