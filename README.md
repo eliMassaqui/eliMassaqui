@@ -9,7 +9,6 @@
 ```python
 import cv2
 
-# Configurações do perfil
 NOME = "Mr.Robot"
 CONQUISTA = "Vencedor Angola Open Source Community"
 
@@ -20,7 +19,6 @@ def iniciar_camera():
     
     return cv2.VideoCapture(0)
 
-# Inicialização direta
 cap = iniciar_camera()
 ```
 <div align="center">
