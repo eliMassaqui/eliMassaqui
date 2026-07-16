@@ -9,25 +9,20 @@
 ```python
 import cv2
 
-class VisaoComputacional:
-    def __init__(self):
-        self.nome = "Mr.Robot"
-        self.conquista = "Vencedor Angola Open Source Community"
+# Configurações do perfil
+NOME = "Mr.Robot"
+CONQUISTA = "Vencedor Angola Open Source Community"
 
-        self.stack = "Python | C# | C++ | Js"
-        self.foco = "Sistemas atualizados"
+def iniciar_camera():
+    """Inicializa a câmera e exibe as credenciais de forma direta."""
+    print(f"👨‍💻 {NOME}")
+    print(f"🏆 {CONQUISTA}")
+    print("Sistema inicializado...")
+    
+    return cv2.VideoCapture(0)
 
-    def iniciar(self):
-        cap = cv2.VideoCapture(0)
-
-        print(f"👨‍💻 {self.nome}")
-        print(f"🏆 {self.conquista}")
-        print("Sistema inicializado")
-
-        return cap
-
-visao = VisaoComputacional()
-cap = visao.iniciar()
+# Inicialização direta
+cap = iniciar_camera()
 ```
 <div align="center">
 
