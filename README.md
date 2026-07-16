@@ -29,14 +29,6 @@ class VisaoComputacional:
 visao = VisaoComputacional()
 cap = visao.iniciar()
 ```
-<p align="center">
-  <img src="https://img.shields.io/badge/IA-00B3A4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-2ECC71?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real--Time-E74C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/3D-Visualization-3498DB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web-Integration-9B59B6?style=for-the-badge" />
-</p>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,3 +39,11 @@ cap = visao.iniciar()
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IA-00B3A4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-2ECC71?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--Time-E74C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/3D-Visualization-3498DB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web-Integration-9B59B6?style=for-the-badge" />
+</p>
