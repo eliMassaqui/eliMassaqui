@@ -37,19 +37,13 @@ cap = visao.iniciar()
   <img src="https://img.shields.io/badge/Web-Integration-9B59B6?style=for-the-badge" />
 </p>
 
-🐍
-<p>
-  <img src="https://img.shields.io/badge/Hardware-Integration-E67E22" />
-  <img src="https://img.shields.io/badge/Realtime-Sockets-9B59B6" />
-  <img src="https://img.shields.io/badge/Desktop-Qt-2C2255" />
-  <img src="https://img.shields.io/badge/Backend-APIs-009688" />
-  <img src="https://img.shields.io/badge/Vision-AI-F1C40F" />
-</p>
+<div align="center">
 
-🌐
-<p>
-  <img src="https://img.shields.io/badge/3D-Three.js-FF8C00" />
-  <img src="https://img.shields.io/badge/Physics-Simulation-E67E22" />
-  <img src="https://img.shields.io/badge/Realtime-Socket.IO-9B59B6" />
-  <img src="https://img.shields.io/badge/Tooling-Vite-95A5A6" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+</div>
