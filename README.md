@@ -14,7 +14,6 @@ NOME = "Mr.Robot"
 CONQUISTA = "Vencedor Angola Open Source Community"
 
 def iniciar_camera():
-    """Inicializa a câmera e exibe as credenciais de forma direta."""
     print(f"👨‍💻 {NOME}")
     print(f"🏆 {CONQUISTA}")
     print("Sistema inicializado...")
